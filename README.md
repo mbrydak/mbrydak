@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mbrydak/mbrydak/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mbrydak/mbrydak/output/snake.svg" alt="Snake animation" />
 
 ###
