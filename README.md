@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Max and I'm a DevOps Engineer, from Poland.</h2>
+<h2 align="left">Hi 👋! My name is Max and I'm a DevOps Enthusiast, from Poland.</h2>
 
 <div align="center">
  <img src="https://tryhackme-badges.s3.amazonaws.com/mbrydak.png" alt="TryHackMe">
